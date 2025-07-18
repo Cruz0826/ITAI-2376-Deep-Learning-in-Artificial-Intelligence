@@ -1,8 +1,8 @@
-Assignment 3: Neural Network Zoo
+# Assignment 3: Neural Network Zoo
 
-This folder contains my assignment for ITAI2376 – Deep Learning in Artificial Intelligence about the Neural Network Zoo.
+This folder contains my assignment for **ITAI2376 – Deep Learning in Artificial Intelligence about the Neural Network Zoo.**
 
-📝 Assignment Overview:
+## 📝 Assignment Overview:
 
 Learned the basics of neural networks and how neurons connect in layers.
 Explored different types of neural networks, each represented as an “animal” in the Neural Network Zoo (like CNN = Cheetah, RNN = Raccoon, LSTM = Lemur).
@@ -10,7 +10,7 @@ Researched one type of neural network in detail (Transformer – The Octopus of 
 Created a presentation with visuals explaining the network’s structure, function, and common applications.
 Reflected on how different networks suit different AI tasks.
 
-What’s Inside:
+## What’s Inside:
 
 Presentation slides (e.g., PDF or PowerPoint)
 [View Neural Network Zoo Presentation (PDF)](./AO3_AliciaGonzalez_ITAI2376.pdf)
