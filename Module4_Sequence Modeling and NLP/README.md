@@ -11,4 +11,4 @@ Related the movie's communication techniques to rule-based, statistical, and dee
 Reflected on how Arrival expands our understanding of language and machine learning
 
 ## 📄 File:
-A05_Analyzing-Arriva-lThrough-the-Lens-of-NLP.pdf
+📄 [A05 Analyzing-Arriva-lThrough the Lens of NLP.pdf](https://github.com/Cruz0826/ITAI-2376-Deep-Learning-in-Artificial-Intelligence/blob/main/A05%20Analyzing-Arriva-lThrough%20the%20Lens%20of%20NLP.pdf?raw=true)
