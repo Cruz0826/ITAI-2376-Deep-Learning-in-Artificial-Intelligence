@@ -1,4 +1,4 @@
-📁 Assignment 3: Neural Network Zoo
+Assignment 3: Neural Network Zoo
 
 This folder contains my assignment for ITAI2376 – Deep Learning in Artificial Intelligence about the Neural Network Zoo.
 
@@ -10,7 +10,7 @@ Researched one type of neural network in detail (Transformer – The Octopus of 
 Created a presentation with visuals explaining the network’s structure, function, and common applications.
 Reflected on how different networks suit different AI tasks.
 
-📂 What’s Inside:
+What’s Inside:
 
 Presentation slides (e.g., PDF or PowerPoint)
 Any visuals or diagrams created
