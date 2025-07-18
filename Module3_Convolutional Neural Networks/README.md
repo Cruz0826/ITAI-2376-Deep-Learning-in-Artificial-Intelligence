@@ -12,6 +12,6 @@ I also made sure to research carefully and include accurate information.
 
 ## Files Included
 
--
+- [View Assignment 4 Presentation (PPTX)](./A04_Alicia%20Gonzalez%20Cruz_ITAI2376.pptx)
 
 - `README.md` — This file
