@@ -13,7 +13,7 @@ Reflected on how different networks suit different AI tasks.
 What’s Inside:
 
 Presentation slides (e.g., PDF or PowerPoint)
-(
+[View Neural Network Zoo Presentation (PDF)](./AO3_AliciaGonzalez_ITAI2376.pdf)
 
 This README file
 
