@@ -13,6 +13,8 @@ Reflected on how different networks suit different AI tasks.
 What’s Inside:
 
 Presentation slides (e.g., PDF or PowerPoint)
-Any visuals or diagrams created
+(
+
 This README file
+
 This assignment helped me understand the diversity of neural network architectures and their strengths.
