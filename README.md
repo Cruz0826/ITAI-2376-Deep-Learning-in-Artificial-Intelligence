@@ -49,6 +49,28 @@ This individual assignment connects themes from the movie *Arrival* (2016) to re
 
 **Assignment:** Create a Simple AI Agent  
 This final module involved developing a working AI agent using concepts learned in the course. The project demonstrates how neural networks can be applied to build intelligent systems. *(Details and files for this module can be added once complete.)*
+# AI Research Assistant Agent
+
+This project is an AI-powered Research Assistant designed to help users quickly gather, extract, and summarize relevant information from the web based on a research topic.
+
+## Key Features
+
+- Takes a user-provided research topic as input.
+- Searches the web for the top relevant articles using the DuckDuckGo search API.
+- Automatically visits each article, extracts the main textual content.
+- Summarizes each article’s content using a state-of-the-art, open-source Hugging Face transformer model.
+- Provides concise summaries to help users understand key insights efficiently.
+
+## Technologies Used
+
+- Python with Google Colab
+- DuckDuckGo Search API (`duckduckgo_search` Python package)
+- Hugging Face Transformers for summarization
+- Web scraping with `requests` and `BeautifulSoup`
+
+## Usage
+
+Run the Jupyter notebook in Google Colab to enter a topic and receive summarized research results from multiple online sources.
 
 ---
 
